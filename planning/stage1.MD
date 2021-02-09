@@ -7,7 +7,7 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Paint the ceiling
 1. Tile the walls
 1. Install the counter tops
-1. Install the oven
+1. Install the electric oven
 1. Install the fridge
 
 This is a new line added to demonstrate pulling - with some more changes

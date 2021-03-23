@@ -8,6 +8,9 @@ to work collaboratively as part of a team.
 This repository contains a variety of files and will change
 over time as we run the workshop.
 
+This is a line added to the original repository by the 
+original owner...
+
 The project involves planning the refurbishment and installation
 of a new kitchen.
 

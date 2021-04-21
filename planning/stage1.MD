@@ -10,3 +10,5 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the oven
 1. Install the fridge
 
+We need to complete this before installing the kitchen.
+
